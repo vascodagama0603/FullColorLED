@@ -10,3 +10,5 @@ This is Full color LED operation samples.
 - turn_on_led_various.py        : turn on many color. Red -> Green -> Blue -> Yellow -> Magenta -> Cyan -> Whilte
 
 - turn_on_white_balance.py      : turn on White. Considering white balance
+
+- turn_on_selected_color.py     : turn on your selected color
